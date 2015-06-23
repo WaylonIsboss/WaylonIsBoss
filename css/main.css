@@ -1,4 +1,22 @@
 body {
-    background: url("../img/bulldog.jpg") no-repeat
+    background: url("../img/cat.jpg") no-repeat center center fixed;
 	background-size: cover;
+	color: #FF3399;
+}
+a {
+	text-decoration: none;
+	color: #0066FF;
+	
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+
+.main {
+    background-color: #FFF;
+    max-width: 800px;
+	margin-right: auto;
+	margin-left: auto:
+	
 }
