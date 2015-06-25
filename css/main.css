@@ -1,5 +1,5 @@
-body {
-    background: url("../img/cat.jpg") no-repeat center center fixed;
+  body {
+  background: url("../img/catgif.gif") no-repeat center center fixed;
 	background-size: cover;
 	color: #FF3399;
 }
@@ -8,6 +8,11 @@ a {
 	color: #0066FF;
 	
 }
+
+.a{
+width: 25%;
+}
+
 a:hover {
 	text-decoration: underline;
 	color: #FF0000;
